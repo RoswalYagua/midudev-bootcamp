@@ -1,0 +1,18 @@
+Que es NPX y NPM?
+
+NPX es un ejecutable que viene de NPM que te permite en lugar de instalar un paquete lo ejecuta directamente.
+
+NPM es un administrador de paquetes de NODEJS. NodeJs puedes instalarle dependencias y ya viene con un gestor de paquetes que se llama NPM.
+
+Carpetas:
+
+public = Archivos que son estaticos (imagenes, etc..)
+
+src = Todo nuestro codigo fuente
+
+
+Componentes = Un componente no es más que declarar una función. Es una parte de la UI que es reutilizable en toda nuestra aplicación. Los componentes tiene que estar separados (Buenas Practicas) 
+
+BABEL = Suele utilizarse para soportes algunas cosas de JS que son mas modernas y tu navegador no soportas.
+
+Se evaluan variables con {}, que se puedan renderizar. Ejemplo: Strings, numeros, listas convertidas en Strings y elementos.
